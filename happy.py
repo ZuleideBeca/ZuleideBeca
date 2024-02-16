@@ -1,2 +1,5 @@
-print("Hello Beca 2024")
+def texto (textinho):
+    return (textinho)
+    
+
 
